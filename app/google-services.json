@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "266741393368",
+    "project_id": "uas-mobile-catatan",
+    "storage_bucket": "uas-mobile-catatan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266741393368:android:b97c0dcd8006d5d474f4ad",
+        "android_client_info": {
+          "package_name": "com.example.uasmobilecatatan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "266741393368-9t20be6omml1nm4p12rm5ufsdidsspa0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2nEpybWPYcF_ytt0ujE9hDCtREXBYi-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "266741393368-9t20be6omml1nm4p12rm5ufsdidsspa0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">266741393368-9t20be6omml1nm4p12rm5ufsdidsspa0.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">266741393368</string>
+    <string name="google_api_key" translatable="false">AIzaSyB2nEpybWPYcF_ytt0ujE9hDCtREXBYi-A</string>
+    <string name="google_app_id" translatable="false">1:266741393368:android:b97c0dcd8006d5d474f4ad</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB2nEpybWPYcF_ytt0ujE9hDCtREXBYi-A</string>
+    <string name="google_storage_bucket" translatable="false">uas-mobile-catatan.appspot.com</string>
+    <string name="project_id" translatable="false">uas-mobile-catatan</string>
+</resources>
